@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <BundleResource Include="Assets\SharedAssets.md" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.fluent\2.4.5\lib\netstandard1.0\Uno.Fonts.Fluent\Fonts\uno-fluentui-assets.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-Bold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-BoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-ExtraBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-ExtraBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-Italic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-Light.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-LightItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-Medium.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-MediumItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-Regular.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-SemiBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans-SemiBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans.ttf.manifest" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-Bold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-BoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-ExtraBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-ExtraBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-Italic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-Light.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-LightItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-Medium.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-MediumItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-Regular.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-SemiBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_Condensed-SemiBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-Bold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-BoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-ExtraBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-ExtraBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-Italic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-Light.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-LightItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-Medium.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-MediumItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-Regular.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-SemiBold.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.opensans\2.4.5\lib\net7.0\Uno.Fonts.OpenSans\Fonts\OpenSans_SemiCondensed-SemiBoldItalic.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.roboto\2.2.2\lib\netstandard2.0\Uno.Fonts.Roboto\Fonts\Roboto-Light.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.roboto\2.2.2\lib\netstandard2.0\Uno.Fonts.Roboto\Fonts\Roboto-Medium.ttf" />
+    <BundleResource Include="C:\Users\Yuan\.nuget\packages\uno.fonts.roboto\2.2.2\lib\netstandard2.0\Uno.Fonts.Roboto\Fonts\Roboto-Regular.ttf" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\g\ResourcesGenerator\en.lproj\Localizable.strings" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\g\ResourcesGenerator\es.lproj\Localizable.strings" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\g\ResourcesGenerator\fr.lproj\Localizable.strings" />
+    <BundleResource Include="obj\Release\net8.0-maccatalyst\g\ResourcesGenerator\pt-BR.lproj\Localizable.strings" />
+  </ItemGroup>
+</Project>

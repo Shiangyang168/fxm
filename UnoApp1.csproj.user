@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
+    <ActiveDebugFramework>net8.0-browserwasm</ActiveDebugFramework>
+    <ActiveDebugProfile>UnoApp1 (WebAssembly)</ActiveDebugProfile>
+    <_UnoSelectedTargetFramework>net8.0-browserwasm</_UnoSelectedTargetFramework>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0-android|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Presentation\MainPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Presentation\SecondPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Presentation\Shell.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ColorPaletteOverride.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

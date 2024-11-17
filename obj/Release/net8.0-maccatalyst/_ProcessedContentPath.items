@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\Contents.json" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon20x20@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon20x20@3x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon29x29@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon29x29@3x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon40x40@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon40x40@3x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon60x60@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon60x60@3x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon76x76@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\icon83.5x83.5@2x.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets.xcassets\icon.appiconset\iconItunesArtwork.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-100.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-125.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-150.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-200.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-300.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Icons\icon_foreground.scale-400.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-100.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-125.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-150.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-200.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-300.png" />
+    <Content Include="obj\Release\net8.0-maccatalyst\unoresizetizer\r\Assets\Images\back.scale-400.png" />
+  </ItemGroup>
+</Project>
